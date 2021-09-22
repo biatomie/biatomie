@@ -13,7 +13,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biatomie&layout=compact&langs_count=7&theme=calm"/>
 </div>
   
-  <div style="display: inline_block" align="center"><br>
+  <div style="display: inline_block"><br>
   <img align="center" alt="Bia-Py" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Bia-Js" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Bia-Js" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">        
