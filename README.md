@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Netsuite 
-- 🌱 I’m currently learning Javascript and Python
-- 🤔 I’m looking for help with Netsuite, Javascript and Python
+- 🔭 I’m currently working as Data Analyst Jr
+- 🌱 I’m currently learning Javascript, Python and SQL
+- 🤔 I’m looking for help with SQL, Javascript and Python
 - 📫 How to reach me: bia.tomie@gmail.com
 
 <br>
